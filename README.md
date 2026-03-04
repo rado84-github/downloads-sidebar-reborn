@@ -7,7 +7,7 @@ I decided to make a fork of the original extension because I really like it and 
 
 This extension will display a list of your latest downloads in the Firefox sidebar.
 
-Since this is a reborn version of the extension, the latest version is **0.0.1**
+The latest version is **0.0.2**, it includes a dark theme now.
 
 ## How do I use this?
 
@@ -63,3 +63,6 @@ As of 2018/08/15 it's not possible to implement the following features, because 
 * dragging and dropping using the official sidebar API doesn't seem possible
 * keyboard shortcut modification
 
+
+# Source code
+Check the releases section. The XPI file is simply a ZIP file with renamed extension. Nothing is locked or hidden, so the extension itself is its own source code as well. Download the XPI release you want, rename the file extension from xpi to zip and open it. There you can see everything about Downloads Sidebar Reborn, as it was left by its original authour. Except for the code for the dark theme, ofc, that part's new. :) 
