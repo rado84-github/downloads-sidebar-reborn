@@ -31,38 +31,12 @@ I spent 4 hours in attempts to make a dark theme work but... not a chance, it ju
 
 ### Dark theme making
 If you're an ethusiast who really wants to try and make a "Preferences" page with editable colors (which actually work), feel free to do so. I'll test it and if it really works, I'll merge your files/code with the current and you'll be fully credited about it. Then that version will go on AMO as an update.
+There's one dark theme already. Doesn't hurt to try to add more, if you have your own themes.
 
-### Credits
-
-* uses Ractive.js (https://github.com/ractivejs/ractive)
-* downloads icon by Pixel perfect on flaticon (https://www.flaticon.com/authors/pixel-perfect)
-* play and pause icons by ionicons (http://ionicons.com)
-* cancel, copy, open external, folder and retry icon from firefox (https://design.firefox.com/icons/viewer/)
-
-### Contributions (thank you!)
-
-* **Josep Maria Salvia Hornos** (https://github.com/josalhor)
-  * approximate download speed
-  * approximate time remaining for a download
-  * updated icons
-  * UI adjustments so the extension better fits with the Firefox design guidelines
-  * variable speed and time indicators
-  * various fixes
-
-### Requested features
-
-* dark theme
-For the moment I (rado84) don't know how to make the sidebar work with the integrated dark theme of the browser. If someone knows how to do that, I'll be more than happy to add your code as a contribution to the reborn extension and ofcourse I'll give you all the credit for this contribution.
-
-### Features that are not possible to implement
-
-As of 2018/08/15 it's not possible to implement the following features, because the API is intentionally limiting them or offers no replacement:
-
-* auto-opening panel after downloading is done
-* auto-opening file after downloading is done
-* dragging and dropping using the official sidebar API doesn't seem possible
-* keyboard shortcut modification
+# Credits, original authors
+All details about that - in the file original-authors-details.txt above, next to the readme.md file.
 
 
 # Source code
 Check the releases section. The XPI file is simply a ZIP file with renamed extension. Nothing is locked or hidden, so the extension itself is its own source code as well. Download the XPI release you want, rename the file extension from xpi to zip and open it. There you can see everything about Downloads Sidebar Reborn, as it was left by its original authour. Except for the code for the dark theme, ofc, that part's new. :) 
+
