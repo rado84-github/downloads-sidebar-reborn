@@ -9,7 +9,7 @@ This extension will display a list of your latest downloads in the Firefox sideb
 
 The latest version is **0.0.2**, it includes a dark theme now.
 
-## How do I use this?
+# How do I use this?
 
 Open your Firefox sidebar and choose "Downloads" from the top drop-down list.
 
@@ -17,7 +17,7 @@ Keyboard shortcut is **F2**. In the browser this key does absolutely nothing, th
 
 There is also a browser toolbar button which opens the Downloads sidebar.
 
-### Features
+# Features
 
 * pause, resume, cancel, retry, erase download
 * copy download link
