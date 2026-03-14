@@ -26,13 +26,6 @@ There is also a browser toolbar button which opens the Downloads sidebar.
 * open downloaded file directly by clicking on its icon, or double-clicking anywhere else
 * erase all recent downloads that are not active (active = downloading or paused)
 
-### Dark theme is still impossible
-I spent 4 hours in attempts to make a dark theme work but... not a chance, it just keeps breaking. The only way to have your own theme (dark or otherwise) is to directly edit /sidebar/panel.css which I did for my browser. The file named "0.0.2 - my dark theme.7z" contains a screenshot of my dark theme for the extension, an xpi with that dark theme and a zip file which you can unpack anywhere and if you're aware with CSS, edit the file in question to make your own theme. But after that you'll have to use the option "Install add-on from file". I haven't uploaded this version on AMO because not everyone will like my theme and I don't wanna push something you may or may not like.
-
-### Dark theme making
-If you're an ethusiast who really wants to try and make a "Preferences" page with editable colors (which actually work), feel free to do so. I'll test it and if it really works, I'll merge your files/code with the current and you'll be fully credited about it. Then that version will go on AMO as an update.
-There's one dark theme already. Doesn't hurt to try to add more, if you have your own themes.
-
 # Credits, original authors
 All details about that - in the file original-authors-details.txt above, next to the readme.md file.
 
